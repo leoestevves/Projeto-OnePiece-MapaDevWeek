@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Pirate-Jack';
+    src: url('../fontes/Pirate\ Jack.ttf');
+}
+
+@font-face {
+    font-family: 'Pirate-Ship';
+    src: url('../fontes/Pirate\ Ship.ttf');
+}
+
+@font-face {
+    font-family: 'Pirate-Kids';
+    src: url(../fontes/Pirate\ Kids.otf);
+}
